@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-OddOccurrencesInArray", "Codility-OddOccurencesInArray\Codility-OddOccurrencesInArray.csproj", "{E1365CDA-8055-491B-B70C-E70E3623AA7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-OddOccurrencesInArrayTests", "Codility-OddOccurrencesInArrayTests\Codility-OddOccurrencesInArrayTests.csproj", "{FB0686E6-C194-417C-972F-C45D9504EB4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1365CDA-8055-491B-B70C-E70E3623AA7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1365CDA-8055-491B-B70C-E70E3623AA7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1365CDA-8055-491B-B70C-E70E3623AA7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1365CDA-8055-491B-B70C-E70E3623AA7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0686E6-C194-417C-972F-C45D9504EB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0686E6-C194-417C-972F-C45D9504EB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0686E6-C194-417C-972F-C45D9504EB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0686E6-C194-417C-972F-C45D9504EB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C755918A-F694-45D0-B53C-2B6B9F9A632F}
+	EndGlobalSection
+EndGlobal
